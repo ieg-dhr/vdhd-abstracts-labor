@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+# DHd-Abstracts Zukunftslabor
+Eine Veranstaltung der [vDHd2021](https://vdhd2021.hypotheses.org/).
 
-You can use the [editor on GitHub](https://github.com/ieg-dhr/vdhd-abstracts-labor/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## Termin
+23.03.2021, 13 - 16 Uhr @ zoom
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Anmeldung
+Die Veranstaltung ist für alle Interessierten offen. Zur besseren Planung und Organisation wird eine Anmeldung unter digital@ieg-mainz.de erbeten.
 
-### Markdown
+## Highlights
+Stay tuned.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ieg-dhr/vdhd-abstracts-labor/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Beteiligte
+* Peter Andorfer, https://orcid.org/0000-0002-9575-9372, Österreichische Akademie der Wissenschaften, Austrian Centre for Digital Humanities and Cultural Heritage (ACDH-CH), https://twitter.com/csae8092
+* Anna Busch, https://orcid.org/0000-0001-5584-4807, Theodor-Fontane-Archiv, Universität Potsdam, https://twitter.com/annaarchiv
+* Fabian Cremer, https://orcid.org/0000-0001-8251-9727, Leibniz-Institut für Europäische Geschichte (IEG), https://twitter.com/fabian_cremer
+* Nickoal Eichmann-Kalwara, https://orcid.org/0000-0002-8851-852X, University of Colorado Boulder, https://twitter.com/nickoaleichmann
+* Andreas Henrich, https://www.uni-bamberg.de/minf/team/henrich/, Universität Bamberg
+* Patrick Helling, https://orcid.org/0000-0003-4043-165X, DHd Data Steward, Universität zu Köln, https://twitter.com/helling_patrick
+* Matthew Lincoln, https://orcid.org/0000-0002-4387-3384, Carnegie Mellon University, https://twitter.com/matthewdlincoln
+* Harald Lordick, https://orcid.org/0000-0002-5070-4263, Steinheim-Institut, https://twitter.com/nubuker
+* Dennis Mischke, https://orcid.org/0000-0001-8892-5419, Universität Potsdam, https://twitter.com/dennmis
+* Timo Steyer, https://orcid.org/0000-0003-0218-2269, Technische Universität Braunschweig, Universitätsbibliothek, https://twitter.com/steyer_ti
+* Scott B. Weingart, https://orcid.org/0000-0003-4802-1364, Carnegie Mellon University, https://twitter.com/scott_bot
