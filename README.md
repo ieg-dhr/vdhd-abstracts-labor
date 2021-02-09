@@ -1,4 +1,4 @@
-<img src="https://github.com/ieg-dhr/vdhd-abstracts-labor/raw/main/files/vDHd2021_klein_transparent.png" height="150"><img src="https://github.com/ieg-dhr/vdhd-abstracts-labor/raw/main/files/Logo2022.png" height="150">
+<img src="./files/vDHd2021_klein_transparent.png" height="150"><img src="./files/Logo2022.png" height="150">
 
 # DHd-Abstracts Zukunftslabor
 Eine Veranstaltung der [vDHd2021](https://vdhd2021.hypotheses.org/) in Zusammenarbeit mit der [DHd2022](https://www.dhd2022.de/).
