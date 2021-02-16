@@ -4,7 +4,7 @@
 Eine Veranstaltung der [vDHd2021](https://vdhd2021.hypotheses.org/) in Zusammenarbeit mit der [DHd2022](https://www.dhd2022.de/).
 
 ## Termin
-23.03.2021, 13 - 16 Uhr @ zoom
+Fr, 26.03.2021, 09 - 13 Uhr @ zoom
 
 ## Anmeldung
 Die Veranstaltung ist für alle Interessierten offen. Zur besseren Planung und Organisation wird eine Anmeldung unter digital@ieg-mainz.de erbeten.
