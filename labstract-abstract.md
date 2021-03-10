@@ -9,21 +9,19 @@ Die Konferenzabstracts als TEI-basierte Veröffentlichungen demonstrieren ihr Po
 In diesem Workshop sollen die Potentiale der Abstracts als Publikation und als Daten weiter konkretisiert und nutzbar gemacht werden. Dieses Vorhaben soll durch die Möglichkeit der aktiven Beteiligung hauptsächlich durch die deutschsprachige DH-Community selbst gestaltet werden, u. a. durch die Berücksichtigung von Bedürfnissen (bspw. Verknüpfung mit Normdaten, Integration von Lizenzen, Berücksichtigung von Taxonomien etc.) und auch Problemen (bspw. fehlende Auffindbarkeit und Zitierbarkeit, nicht einheitliche Datenmodelle etc.) in Bezug auf die Publikation und Nachnutzung der Abstracts. Darauf aufbauend soll eine gemeinsame Roadmap zur Umsetzung von Features zur Anreicherung und Aufbereitung sowie Publikationsstrategien zukünftiger Abstracts definiert werden. Im Anschluss an den Workshop soll diese Roadmap praktisch/beispielhaft umgesetzt werden, um schließlich Empfehlungen und Vorschläge für die DHd 2022 in Potsdam und weitere künftige DHd-Konferenzen zu formulieren.
 ### Ablauf und Umsetzung
 Die Veranstaltung ist für 2,5 Std. und als Videokonferenz konzipiert.
-1) Impulsbeiträge:
-- Eine sehr kurze Geschichte der DHd-Abstracts
-- Die dhd-boas-app
-- DH(d) Konferenzbeiträge Bibliografie
-- DHd Data Steward
-- Index of Digital Humanities Conferences
-- Konferenzabstracts in der Informatik
-- DHd-Abstracts für die DHd-Jahrestagung in Potsdam
-2) Leitfragendiskussion
-- Was macht die Abstracts bis nächstes Jahr besser?
-- Was ist in den nächsten fünf Jahren möglich?
-- Wie werden die Abstracts zu sauberen, nutzbaren Daten?
-- Wie werden die Abstracts zu eigenständigen Publikationen? \
- \
-Die Interessen, Bedürfnisse und Ansprüche an die DHd-Abstracts gemeinsam identifiziert werden. Ziel ist es mit auch zu überlegen, die ausgemachten Punkte zu priorisieren und eine Vorstellung zu entwickeln, mit welchem Aufwand die Umsetzung verbunden wäre. Eine Dokumentation und Publikation der Ziele für die interessierte Community soll ebenfalls diskutiert werden.
-
-3) Roadmap (ggf. post-conference) \
-Erstellung einer Roadmap für die Umsetzung der definierten Ziele: Die sich aus der Leitfragendiskussion ergebenden Ziele sollen zum Abschluss der Veranstaltung in eine Roadmap überführt und bestenfalls auch in Form von Arbeitsgruppen konsolidiert werden. In diesem Rahmen soll auch das weitere Vorgehen besprochen werden.
+1. Impulsbeiträge:
+  - Eine sehr kurze Geschichte der DHd-Abstracts
+  - Die dhd-boas-app
+  - DH(d) Konferenzbeiträge Bibliografie
+  - DHd Data Steward
+  - Index of Digital Humanities Conferences
+  - Konferenzabstracts in der Informatik
+  - DHd-Abstracts für die DHd-Jahrestagung in Potsdam
+2. Leitfragendiskussion
+  - Was macht die Abstracts bis nächstes Jahr besser?
+  - Was ist in den nächsten fünf Jahren möglich?
+  - Wie werden die Abstracts zu sauberen, nutzbaren Daten?
+  - Wie werden die Abstracts zu eigenständigen Publikationen?
+  - Die Interessen, Bedürfnisse und Ansprüche an die DHd-Abstracts gemeinsam identifiziert werden. Ziel ist es mit auch zu überlegen, die ausgemachten Punkte zu priorisieren und eine Vorstellung zu entwickeln, mit welchem Aufwand die Umsetzung verbunden wäre. Eine Dokumentation und Publikation der Ziele für die interessierte Community soll ebenfalls diskutiert werden.
+3. Roadmap (ggf. post-conference)
+  - Erstellung einer Roadmap für die Umsetzung der definierten Ziele: Die sich aus der Leitfragendiskussion ergebenden Ziele sollen zum Abschluss der Veranstaltung in eine Roadmap überführt und bestenfalls auch in Form von Arbeitsgruppen konsolidiert werden. In diesem Rahmen soll auch das weitere Vorgehen besprochen werden.
