@@ -22,6 +22,6 @@ Die Veranstaltung ist für 2,5 Std. und als Videokonferenz konzipiert.
   - Was ist in den nächsten fünf Jahren möglich?
   - Wie werden die Abstracts zu sauberen, nutzbaren Daten?
   - Wie werden die Abstracts zu eigenständigen Publikationen?
-  - Die Interessen, Bedürfnisse und Ansprüche an die DHd-Abstracts gemeinsam identifiziert werden. Ziel ist es mit auch zu überlegen, die ausgemachten Punkte zu priorisieren und eine Vorstellung zu entwickeln, mit welchem Aufwand die Umsetzung verbunden wäre. Eine Dokumentation und Publikation der Ziele für die interessierte Community soll ebenfalls diskutiert werden.
+  - Die Interessen, Bedürfnisse und Ansprüche an die DHd-Abstracts sollen gemeinsam identifiziert werden. Ziel ist es mit auch zu überlegen, die ausgemachten Punkte zu priorisieren und eine Vorstellung zu entwickeln, mit welchem Aufwand die Umsetzung verbunden wäre. Eine Dokumentation und Publikation der Ziele für die interessierte Community soll ebenfalls diskutiert werden.
 3. Roadmap (ggf. post-conference)
   - Erstellung einer Roadmap für die Umsetzung der definierten Ziele: Die sich aus der Leitfragendiskussion ergebenden Ziele sollen zum Abschluss der Veranstaltung in eine Roadmap überführt und bestenfalls auch in Form von Arbeitsgruppen konsolidiert werden. In diesem Rahmen soll auch das weitere Vorgehen besprochen werden.
