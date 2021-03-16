@@ -7,7 +7,7 @@ Eine Veranstaltung der [vDHd2021](https://vdhd2021.hypotheses.org/) in Zusammena
 [#labstract](https://twitter.com/hashtag/labstract)
 
 ## Termin
-Fr, 26.03.2021, 09 - 13 Uhr @ zoom
+Fr, 26.03.2021, 09 - 12 Uhr @ zoom
 
 ## Anmeldung
 Die Veranstaltung ist für alle Interessierten offen. \
